@@ -32,7 +32,7 @@ public class PongPanel extends JPanel{
 	public void paintComponent(Graphics g){
 		g.setColor(Color.BLUE);
 		g.fillRect(0,0,600,400);
-		g.setColor(Color.ORANGE);
+		g.setColor(Color.YELLOW);
 		g.fillOval(intBallX,intBallY,20,20);
 		
 		g.setColor(Color.RED);
