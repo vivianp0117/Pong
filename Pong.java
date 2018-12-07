@@ -45,6 +45,8 @@ public class Pong implements ActionListener, KeyListener, MouseMotionListener{
 	}
 	
 	//	MouseMotion Listener
+	
+	//	Overriden method for Mouse Listener
 		public void mouseMoved(MouseEvent mevt){
 			panel.intRect2Y = mevt.getY();
 		}
