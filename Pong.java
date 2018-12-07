@@ -1,7 +1,5 @@
-// practice task and homework
-// create one ball in a new program 2 rectangles and and create PONG ping pong!!!!
-
-// ball controlled by path need if statement if u bounce off the wall OR PADEL AND MORE IF BALL GOES TO ONE END OR ANOTHER 
+// Create the game Pong
+// ball controlled by path need if statement if u bounce off the wall or panel 
 // Mouse Listener  -- Right Panel 
 // Key Listenr -- Left Panel
 
